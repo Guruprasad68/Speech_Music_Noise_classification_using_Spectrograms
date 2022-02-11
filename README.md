@@ -6,7 +6,7 @@ This repository contains my answer to one of the many questions posed in the mid
 speech_music_noise.nb - The Main Notebook. A detailed explanation of the steps I had taken for this question.\
 CNN_training_ablations_2.nb - Contains the short ablation study done for selecting the best CNN model.\
 preprocess_noise.py - Python script for preprocessing the noise files.\
-preprocess_speech_music.py - Python script for preprocessing the speech and music files.\
+preprocess_speech_music.py - Python script for preprocessing the speech and music files.
 
 Due to Github's space constraints, I am not uploading the final model and the preproceesed data used to train the networks.
 
